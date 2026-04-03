@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment file
+.env
+
+# Google service account key
+config/*.json
+# Uploads folder (stored images)
+uploads/fake-document-87715254bec4
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
